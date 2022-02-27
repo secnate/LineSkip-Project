@@ -2,7 +2,7 @@
 
 This is a project repository of the LineSkip app for iOS and Android phones that Nathan Pavlovsky and
 Sadegh Sadeghi Tabas developed for the University of South Carolina's CSCE546 Spring 2019 class.
-It won First Place in the [University of South Carolina's _Backers and Hackers_ 2019 entepreneurship contest](https://www.cse.sc.edu/news/news/2019-backers-and-hackers-winners)
+It won first place in the [University of South Carolina's _Backers and Hackers_ 2019 entepreneurship contest](https://www.cse.sc.edu/news/news/2019-backers-and-hackers-winners)
 
 Video demo can be found [here](https://youtu.be/9enQzGKMnsM)
 
