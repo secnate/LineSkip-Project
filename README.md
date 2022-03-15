@@ -6,7 +6,7 @@ It won first place in the [University of South Carolina's _Backers and Hackers_ 
 
 Video demo can be found [here](https://youtu.be/9enQzGKMnsM)
 
-Tech stack used: Ionic Cordova for the iOS/Android frontend and Firebase for the cloud-based database.
+Tech stack used: Ionic Cordova with Typescript for the iOS/Android frontend and Firebase for the cloud-based database.
 
 The repository contains the following:
 - The [final project report](https://github.com/secnate/LineSkip-Project/blob/main/LineSkip%20Project%20Report.pdf) and [presentation](https://github.com/secnate/LineSkip-Project/blob/main/LINEUP_PITCH.pptx) with a full explanation and overview of what was done
